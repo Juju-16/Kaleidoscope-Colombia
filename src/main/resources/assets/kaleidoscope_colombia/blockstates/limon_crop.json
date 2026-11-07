@@ -1,0 +1,48 @@
+{
+  "variants": {
+    "age=0,half=lower,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage0" },
+    "age=0,half=lower,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage0" },
+
+    "age=1,half=lower,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage1" },
+    "age=1,half=lower,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage1" },
+
+    "age=2,half=lower,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage2" },
+    "age=2,half=lower,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage2" },
+
+    "age=3,half=lower,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage3" },
+    "age=3,half=lower,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage3" },
+
+    "age=4,half=lower,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage4" },
+    "age=4,half=lower,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage4" },
+
+    "age=0,half=upper,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage0" },
+    "age=0,half=upper,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage0" },
+
+    "age=1,half=upper,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage1" },
+    "age=1,half=upper,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage1" },
+
+    "age=2,half=upper,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage2" },
+    "age=2,half=upper,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage2" },
+
+    "age=3,half=upper,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage3" },
+    "age=3,half=upper,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage3" },
+
+    "age=4,half=upper,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage4" },
+    "age=4,half=upper,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage4" },
+
+    "age=5,half=lower,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage5_bottom" },
+    "age=5,half=lower,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage5_bottom" },
+    "age=5,half=upper,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage5_top" },
+    "age=5,half=upper,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage5_top" },
+
+    "age=6,half=lower,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage6_bottom" },
+    "age=6,half=lower,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage6_bottom" },
+    "age=6,half=upper,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage6_top" },
+    "age=6,half=upper,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage6_top" },
+
+    "age=7,half=lower,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage7_bottom_empty" },
+    "age=7,half=lower,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage7_bottom" },
+    "age=7,half=upper,fruit=false": { "model": "kaleidoscope_colombia:block/limon_crop/stage7_top_empty" },
+    "age=7,half=upper,fruit=true": { "model": "kaleidoscope_colombia:block/limon_crop/stage7_top" }
+  }
+}

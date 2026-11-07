@@ -1,0 +1,1 @@
+{"jarName":"geckolib-forge-1.20.1-4.8.4.jar","modId":"geckolib","version":"4.8.4","mixinConfigs":["geckolib.mixins.json"],"jarJarMods":[{"jarName":"mclib-20.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}],"curseForgeHash":3690314662,"modrinthHash":"81982cc287f80ffabb2fd36d22cc95e4255c739d"}

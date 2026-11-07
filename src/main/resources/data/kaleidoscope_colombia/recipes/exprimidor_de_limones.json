@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "   ",
+    " FS",
+    " FS"
+  ],
+  "result": {
+    "item": "kaleidoscope_colombia:exprimidor_de_limones"
+  },
+  "show_notification": true
+}

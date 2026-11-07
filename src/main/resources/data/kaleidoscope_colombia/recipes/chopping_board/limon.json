@@ -1,0 +1,14 @@
+{
+  "type": "kaleidoscope_cookery:chopping_board",
+  "cut_count": 1,
+  "ingredient": {
+    "item": "kaleidoscope_colombia:limon"
+  },
+  "model_id": "kaleidoscope_colombia:limon",
+  "result": [
+    {
+      "count": 2,
+      "item": "kaleidoscope_colombia:limon_cortado"
+    }
+  ]
+}

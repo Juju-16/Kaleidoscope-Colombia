@@ -1,0 +1,48 @@
+Detected that Windows reported recent critical or error events in the Application log,
+which can indicate that a process (including the Minecraft JVM) terminated unexpectedly.
+Scope: Application log; Levels: Error & Critical; Window: last ~15 seconds.
+
+If no java.exe (or related JVM processes) are listed below, you can disregard this message.
+To inspect these events manually:
+  1) Press Win+R, type "eventvwr.msc", press Enter.
+  2) Open "Windows Logs" → "Application".
+  3) Sort by Date and look for entries with Level = Error or Critical near the crash time.
+
+-----------------------
+Time: 2026-10-31 13:07:21.687 COT
+Source: Application Error
+Event ID: 1000
+Level: Error
+
+Message:
+  Nombre de aplicación con errores: SnippingTool.exe, versión: 11.2608.41.0, marca de tiempo: 0x6ab39245
+  Nombre del módulo con errores: ucrtbase.dll, versión: 10.0.26100.9711, marca de tiempo: 0x3f426c5b
+  Código de excepción: 0xc0000409
+  Desplazamiento con errores: 0x00000000000a527e
+  Id. de proceso con errores: 0x55E0
+  Tiempo de inicio de aplicación con errores: 0x1DD6962A4543001
+  Ruta de aplicación con errores: C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2608.41.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe
+  Ruta de módulo con errores: C:\WINDOWS\System32\ucrtbase.dll
+  Id. de informe: 60a40157-5008-483c-b822-6fe81644e9d3
+  Nombre completo del paquete con errores: Microsoft.ScreenSketch_11.2608.41.0_x64__8wekyb3d8bbwe
+  Id. de aplicación relacionado con el paquete con errores: App
+
+
+Details:
+  - AppName: SnippingTool.exe
+  - AppVersion: 11.2608.41.0
+  - AppTimeStamp: 6ab39245
+  - ModuleName: ucrtbase.dll
+  - ModuleVersion: 10.0.26100.9711
+  - ModuleTimeStamp: 3f426c5b
+  - ExceptionCode: c0000409
+  - FaultingOffset: 00000000000a527e
+  - Process ID: 21984 [0x55e0]
+  - ProcessCreationTime: 0x1dd6962a4543001
+  - AppPath: C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2608.41.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe
+  - ModulePath: C:\WINDOWS\System32\ucrtbase.dll
+  - IntegratorReportId: 60a40157-5008-483c-b822-6fe81644e9d3
+  - PackageFullName: Microsoft.ScreenSketch_11.2608.41.0_x64__8wekyb3d8bbwe
+  - PackageRelativeAppId: App
+-----------------------
+

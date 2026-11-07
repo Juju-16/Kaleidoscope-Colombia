@@ -1,0 +1,1 @@
+{"jarName":"memoryleakfix-forge-1.17+-1.1.5.jar","modId":"memoryleakfix","version":"1.1.5","mixinConfigs":["memoryleakfix.mixins.json","memoryleakfix-16.mixins.json"],"jarJarMods":[],"curseForgeHash":3221047096,"modrinthHash":"9f60142dd94631800386a16a4ad70ad9e84cd78a"}

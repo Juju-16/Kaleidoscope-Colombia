@@ -1,0 +1,7 @@
+{
+  "parent": "kaleidoscope_colombia:block/limon_crop_cross",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "crop": "kaleidoscope_colombia:block/limon_crop_stage3"
+  }
+}

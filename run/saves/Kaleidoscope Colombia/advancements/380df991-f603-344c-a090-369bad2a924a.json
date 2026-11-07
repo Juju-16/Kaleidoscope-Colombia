@@ -1,0 +1,441 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-10-31 19:11:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2026-10-31 19:11:39 -0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-10-31 19:12:54 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:root": {
+    "criteria": {
+      "has_pot": "2026-11-01 07:16:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-11-01 08:52:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2026-11-01 08:52:18 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2026-11-01 08:52:18 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:iron_knife": {
+    "criteria": {
+      "has_iron_knife": "2026-11-01 15:47:14 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:chopping_board": {
+    "criteria": {
+      "use_chopping_board": "2026-11-01 15:47:16 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/food/cold_roasted_meat": {
+    "criteria": {
+      "has_cooked_beef": "2026-11-01 16:58:56 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:straw_hat": {
+    "criteria": {
+      "has_straw_hat": "2026-11-01 21:33:06 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:farmer_set": {
+    "criteria": {
+      "has_straw_hat": "2026-11-01 21:33:06 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-11-01 21:35:27 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:tomato_seed": {
+    "criteria": {
+      "has_tomato_seed": "2026-11-01 21:35:49 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:flower_straw_hat": {
+    "criteria": {
+      "has_flower_straw_hat": "2026-11-01 21:37:24 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:netherite_knife": {
+    "criteria": {
+      "has_netherite_knife": "2026-11-01 21:49:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2026-11-02 18:13:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-11-02 18:13:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2026-11-02 18:14:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2026-11-02 18:14:01 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-11-02 18:14:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-11-02 18:14:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-11-02 18:14:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-11-02 18:14:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-11-02 18:14:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-11-02 18:14:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-11-02 18:14:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-11-02 18:14:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-11-02 18:14:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2026-11-03 11:49:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-11-03 16:42:19 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/food/shengjian_mantou_plate": {
+    "criteria": {
+      "has_ingredient": "2026-11-05 20:48:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/gold_kitchen_knife": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/oil": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/kitchen_shovel": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/straw_hat": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/kitchenware_racks": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/stockpot_lid": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/diamond_kitchen_knife": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/straw_hat_flower": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/redstone/pot": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/misc/trash_can": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/tools/iron_kitchen_knife": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/stockpot": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/decorations/oil_block": {
+    "criteria": {
+      "has_ingot_iron": "2026-11-05 20:49:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2026-11-05 20:49:44 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/food/tomato_platter": {
+    "criteria": {
+      "has_ingredient": "2026-11-06 13:00:49 -0500"
+    },
+    "done": true
+  },
+  "kaleidoscope_cookery:recipes/food/tomato_seed": {
+    "criteria": {
+      "has_tomato": "2026-11-06 13:00:49 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
